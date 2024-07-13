@@ -4,7 +4,7 @@ import telebot
 from threading import Timer
 
 # Укажите ваш токен бота
-TOKEN = '7158508523:AAEb3kVfxnOQInfTswU_wnfqah7r9eJ9QTc'
+TOKEN = ''
 # Укажите ID вашей группы
 CHAT_ID = -1002177082543  # Измените на ваш ID группы
 # Укажите список URL ваших RSS-лент
